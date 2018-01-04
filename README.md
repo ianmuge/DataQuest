@@ -6,4 +6,4 @@ These are my archived solutions for the DataQuest Guided Projects
 
 ## Later
 - Capstone Projects Later in the year
-- Snippetes and Cheatsheet
+- Snippets and Cheatsheet
